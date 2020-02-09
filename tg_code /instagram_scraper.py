@@ -16,6 +16,6 @@ def scrape(username):
     return main_text
 
 
-USERNAME = "amazing.python"
+USERNAME = "main_project"
 data = scrape(USERNAME)
 print(data)
