@@ -16,6 +16,6 @@ def scrape(username):
     return main_text
 
 
-USERNAME = "main_project"
+USERNAME = "main_project_"
 data = scrape(USERNAME)
 print(data)
