@@ -1,4 +1,4 @@
-from emoji import emojize
+from emoji import emojize #pip3 install emoji
 
 print("Amazing Python", emojize(':snake:'))
 
