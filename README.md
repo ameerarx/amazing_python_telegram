@@ -1,1 +1,1 @@
-<h2>Out Telegram Channel  @pythonamazing</h3>
+<h2>Our Telegram Channel  @pythonamazing</h3>
